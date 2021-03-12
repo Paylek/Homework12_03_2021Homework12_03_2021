@@ -3,7 +3,7 @@ package Homework_12_03_2021;
 public class Task_12 {
 
     public static void main(String[] args) {
-        
+
         System.out.println(recursion(17, 2));
     }
 
